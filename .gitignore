@@ -2,3 +2,7 @@
 *~
 /cabal-dev
 /dist
+/dist-newstyle/
+/result
+/.direnv/
+/.envrc.local
